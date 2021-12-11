@@ -55,7 +55,15 @@ button:hover{
 }
 
 .logo{
-    height: 100px;
-    border-radius: 1rem;
+    height: 90px;
+    border-radius: 80%;
     box-shadow: 2px 3px 10px;
+    opacity: 0.8;
+}
+.bodyimg{
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+    opacity: 0.3;
 }
