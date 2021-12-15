@@ -61,9 +61,15 @@ button:hover{
     opacity: 0.8;
 }
 .bodyimg{
+    position: relative;
     background-repeat: no-repeat;
     height: 500px;
     background-size: cover;
     width: 100%;
     opacity: 0.3;
+}
+
+.para{
+    position: absolute;
+    bottom: 10px;
 }
