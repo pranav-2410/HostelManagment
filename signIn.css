@@ -1,0 +1,12 @@
+#formDiv{
+    
+    display:flex;
+    justify-content: center;
+    
+}
+#formF{
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: 30px;
+    width: 50%;
+}

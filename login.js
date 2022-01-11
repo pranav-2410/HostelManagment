@@ -11,3 +11,12 @@ function showP(){
         x.type="password";
     }
 }
+
+function checkPass(){
+    var pass1 = document.getElementById("inputPassword4").value;
+    var pass2 = document.getElementById("confirmPassInput").value;
+    if(pass1!=pass2){
+        alert("Password not matched!");
+    }
+    
+}
